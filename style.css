@@ -10,3 +10,8 @@
     background-image: url("pic2.png");
     font-family: "Roboto", sans-serif;
 }
+
+#icon{
+  border: 4px solid #2a1768;
+  border-radius: 50%;
+}
